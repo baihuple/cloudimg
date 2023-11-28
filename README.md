@@ -1,2 +1,2 @@
 # cloudimg
-This repository is for uploading the typro pictures
+This repository is for uploading the typora pictures
